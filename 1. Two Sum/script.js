@@ -19,5 +19,3 @@ function twoSum(nums, target) {
     }
     return null;
 };
-
-// & https://leetcode.com/problems/two-sum/
