@@ -1,6 +1,8 @@
 # leet-code
 
-    HEY There 👋
+    HEY There 👋,
+    This is the first journy to enter the problem solving world and get happy with it. 
+    
 
 # What is this ?
 
@@ -22,6 +24,3 @@ The way that i will add the problem is  like this :
  # NOTE 
 IF you see issue with the problem solution 
 OR you have another solution for the problem and easier to understand you can your own commit 
-
-&theme=midnight-purple
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?nmcev=anuraghazra&show_icons=true&theme=radical)
