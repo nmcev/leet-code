@@ -22,5 +22,5 @@ The way that i will add the problem is like this as a folder for each problem :
 
 
  # NOTE 
-IF you see an issue with the problems solution 
-OR you have another solution for the problem and it is easier to understand you can do your own commits 
+ * IF you see an issue with the problems solution 
+ * OR you have another solution for the problem and it is easier to understand you can do your own commits 
