@@ -17,7 +17,7 @@ The way that i will add the problem is  like this :
 
 [Number of the roblem + problemName ] 
 
-*The Problems link will be added to the solution as a comment to use it 
+* The Problems link will be added to the README'S problem 
 
 
 
