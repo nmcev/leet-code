@@ -8,7 +8,7 @@ customer has in the j^fth bank .
 
 ## Example 
 
-* Input : **accounts = [ [1,2,3],[3,2,1] ]
+* Input : ** accounts = [ [1,2,3],[3,2,1] ]
 
 *  Output : 6 
 
