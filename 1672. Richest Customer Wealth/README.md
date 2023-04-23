@@ -17,9 +17,8 @@ customer has in the `j​​​​​​​​​​​th` bank .
 *1st* customer has wealth = ` 1 + 2 + 3 `<br>
 *2nd* customer has wealth = ` 3 + 2 + 1 `<br>
 
-Both customer are considered the richest with a wealth of 6 each , so return 6 <br>
-
-so taht means it will return the richest customer but in the case above they are havae same *wealth* 
+Both customer are considered the richest with a wealth of 6 each , so it returns 6  .<br>
+taht means it will returns the richest customer but in the case above they are havae same *wealth*  .
 
 
 ## constraints 
