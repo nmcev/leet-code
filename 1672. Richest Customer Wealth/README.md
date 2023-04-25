@@ -31,5 +31,5 @@ taht means it will returns the richest customer but in the case above they are h
 
 * `1 <= accounts[i][j] <= 100`
 
-### link 
+## link 
 [The link of problem](https://leetcode.com/problems/richest-customer-wealth/)
