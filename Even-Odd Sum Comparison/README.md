@@ -3,7 +3,7 @@
 
 * if ***the sum of the odd  numbers*** is greater than ***the sum of the even numbers*** then return **'odd'** 🔷.<br>
 
-* and if ***the sum of the even numbers*** is greater than ***the sum of the odd numbers*** then return **'even'**🔶.<br>
+* and if ***the sum of the even numbers*** is greater than ***the sum of the odd numbers*** then return **'even'** 🔶.<br>
 
 * and if ***the sum of odd number*** is equal to the sum of the even numbers then return **'equal'** 🟩. <br>
 ```javascript 
