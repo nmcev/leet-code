@@ -21,4 +21,4 @@ output = 'equal';
 ```
 ## Note 🗒️
 
-This is extra problem i got it from another website not [leetcode](http://leetcode.com) which i'm using in this repo 👾 .
+This is an extra problem i got it from another website not [leetcode](http://leetcode.com) which i'm using in this repo 👾 , so it is for foucs on the concepts .
