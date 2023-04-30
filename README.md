@@ -1,8 +1,7 @@
 # leet-code-problems 🏭
 
     HEY There 👋,
-    This is the first journy to enter the problem solving world and get happy with it. 
-    
+    Welcome to Problem Solving World here is the world and here you can start your journey now !!
 
 # What is this ?
 
