@@ -2,7 +2,6 @@
 * @param {number[][] } accounts 
 * @return {number}
 */ 
-
 var maximumWealth = function(accounts) {
 
 /* 
@@ -31,5 +30,3 @@ for(let i = 0 ; i < accounts.length; i++)
 return ` The richest : ${richest}`;
 
 };
-
-console.log(maximumWealth([[1,2,4],[3,5,6,5]]))
