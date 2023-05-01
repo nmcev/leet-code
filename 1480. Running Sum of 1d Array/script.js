@@ -2,7 +2,8 @@
  * @param {number[]} nums
  * @return {number[]}
  */
-var runningSum = function(nums) {
+var runningSum = function(nums) 
+{
     let sum = 0; // to contain the sum of index numbers
     let result = []; //the new array to hold the result of sum
 
