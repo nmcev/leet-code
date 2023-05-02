@@ -20,3 +20,17 @@ function largest_smallest(array_values)
    
 return newArray; // return the new array after adding the maximum and min number  as above 
 }
+
+
+
+//another function to do the same thing 
+
+function max_min(array_values)
+{
+
+ const filteredArray = array_values.filter(value => 
+  {
+     return value == Math.max(...array_values) || value == Math.min(...array_values);
+  })
+ return filteredArray;
+}
