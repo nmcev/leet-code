@@ -8,22 +8,15 @@ var fizzBuzz = function(n)
     
     for(let i = 1;i <= n;i++)
     {
-      if( i % 3 == 0 && i % 5  == 0 ) 
-      {
-        result.push("FizzBuzz") //pushing "FizzBuzz" to the array(result) if The IF statement true
-      }else if (i % 5  == 0)
-      {
-        result.push("Buzz");
+      i % 3 == 0 && i % 5  == 0 ? result.push("FizzBuzz") ://pushing "FizzBuzz" to the array(result) if The IF statement true
+      i % 5  == 0 ? result.push("Buzz"):
+
+      i  % 3 == 0 ?result.push("Fizz"):
+        result.push(i.toString())
+        // turn the intger into string ===> 1 => '1'
       }
-      else if (i  % 3 == 0 )
-      {
-        result.push("Fizz");
-      }
-      else{
-        result.push(i.toString())// turn the intger into string ===> 1 => '1'
-       }
-    }
 
    return result;
 };
-
+console.log(fizzBuzz(55))
+// swritchign to ternary condition method 
