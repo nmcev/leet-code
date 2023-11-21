@@ -22,4 +22,20 @@ function twoSum(nums, target)
         map.set(nums[i], i);// ! adding (key , value) 
     }
     return null;
+
+
+    // another solution: 
+    // target = x + currentNumber
+    // x = target - currentNumber
+
+    // for (let i = 0; i < nums.length; i++) {
+    // const x = target - nums[i];
+    
+    // if (nums.includes(x)) {
+    //     if(nums.indexOf(x) !== i)
+    //     return [nums.indexOf(x), i];
+    
+        //  }
+    // }
+    // return [];
 };
