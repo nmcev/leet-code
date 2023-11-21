@@ -13,7 +13,9 @@ function twoSum(nums, target)
         // x = target - cur  
         const x = target - nums[i];
 
-        map.has(x)? return [map.get(x), i]; 
+        if(map.has(x)){
+            return [map.get(x), i]; 
+        }
         // ~ map.has(x) it means is the target in the map or not in the map
              // ~ getting the value from the key (x)
   
