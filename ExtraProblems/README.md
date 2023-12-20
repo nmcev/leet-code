@@ -1,5 +1,3 @@
-# What is thie 🤔
+# What is this 🤔
 
-as it name it is extra problems , aren't from leet code , i found them at another websites that relative to that 
-
-and i add it when i feel it worth to add here mean not all i solving 😼.
+As it is named there are extra problems, that aren't from leetcode, I found them on another website that is relative to that, and I add it when I feel it is worth adding here means not all I solving 😼.
