@@ -19,8 +19,8 @@ class Solution:
         
 
 
-# Time complexity: O(logn)
-# Space complexity: O(logn)
+#Space Complexity: O(n)
+# Time Complexity: O(n * log n)
 
 sol = Solution()
 happy = 2
